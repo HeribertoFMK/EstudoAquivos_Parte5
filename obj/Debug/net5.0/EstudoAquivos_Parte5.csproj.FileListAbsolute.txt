@@ -1,0 +1,16 @@
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\bin\Debug\net5.0\EstudoAquivos_Parte5.exe
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\bin\Debug\net5.0\EstudoAquivos_Parte5.deps.json
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\bin\Debug\net5.0\EstudoAquivos_Parte5.runtimeconfig.json
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\bin\Debug\net5.0\EstudoAquivos_Parte5.runtimeconfig.dev.json
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\bin\Debug\net5.0\EstudoAquivos_Parte5.dll
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\bin\Debug\net5.0\ref\EstudoAquivos_Parte5.dll
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\bin\Debug\net5.0\EstudoAquivos_Parte5.pdb
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\obj\Debug\net5.0\EstudoAquivos_Parte5.csproj.AssemblyReference.cache
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\obj\Debug\net5.0\EstudoAquivos_Parte5.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\obj\Debug\net5.0\EstudoAquivos_Parte5.AssemblyInfoInputs.cache
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\obj\Debug\net5.0\EstudoAquivos_Parte5.AssemblyInfo.cs
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\obj\Debug\net5.0\EstudoAquivos_Parte5.csproj.CoreCompileInputs.cache
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\obj\Debug\net5.0\EstudoAquivos_Parte5.dll
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\obj\Debug\net5.0\ref\EstudoAquivos_Parte5.dll
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\obj\Debug\net5.0\EstudoAquivos_Parte5.pdb
+C:\csharp\Curso_NelioAlves\EstudoAquivos_Parte5\obj\Debug\net5.0\EstudoAquivos_Parte5.genruntimeconfig.cache
